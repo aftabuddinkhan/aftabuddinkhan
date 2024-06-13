@@ -4,11 +4,9 @@
 <h3 align="center">A Developer from BANGLADESH</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msrtanim&label=Profile%20views&color=0e75b6&style=flat" alt="msrtanim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabuddinkhan&label=Profile%20views&color=0e75b6&style=flat" alt="msrtanim" /> </p>
 
-<p align="left"> <a href="https://twitter.com/msrtanim_" target="blank"><img src="https://img.shields.io/twitter/follow/msrtanim_?logo=twitter&style=for-the-badge" alt="msrtanim_" /></a> </p>
-
-## I am a Independent researcher <img src="https://github.com/MSRTanim/all-REDME/blob/ebee105861d3e93af16afd3aa978ab83a57684f1/giphy-cat-keyTyper.webp" width="30">
+## I am a Independent researcher <img src="https://github.com/aftabuddinkhan/aftabuddinkhan/blob/da5a9ca16f3aa198fc8c339e6a341207d3e9886f/Image/giphy-cat-keyTyper.webp" width="30">
 - 🔭 I’m currently working on [C/C++ Programming](https://github.com/aftabuddinkhan/C-Programming)
 
 - 📖 I’m Making a Course over [Python Programming](https://github.com/aftabuddinkhan/Python-Programming)
@@ -19,7 +17,7 @@
 
 - 📫 How to reach me *badaftabkhanboy@gmail.com*
 
-## <img src="https://github.com/MSRTanim/all-REDME/blob/1b8811b03d86d12513a909cc6dd302f1bd265803/giphy-network.webp" width="25"> Connect with Me<img align="center" src="./img/Handshake.gif" height="33px" />
+## <img src="https://github.com/aftabuddinkhan/aftabuddinkhan/blob/da5a9ca16f3aa198fc8c339e6a341207d3e9886f/Image/giphy-network.webp" width="25"> Connect with Me<img align="center" src="./img/Handshake.gif" height="33px" />
 <p align="left">
 <a href="https://fb.com/aftabuddin.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aftabuddin.co" height="30" width="40" /></a>
 <a href="https://instagram.com/aftabuddin.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aftabuddin.co" height="30" width="40" /></a>
