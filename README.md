@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/aftabuddinkhan/aftabuddinkhan/blob/6c19887a2e9b4057d017e15c403b145cfeec6b57/Image/GitHub.gif)](https://github.com/aftabuddinkhan/)
 
-<h1 align="center">Hi 👋, I'm Md. Aftab Uddin Khan</h1>
-<h3 align="center">A Developer from BANGLADESH</h3>
+<h1 align="center">Hi , I'm Md. Aftab Uddin Khan</h1>
+<h3 align="center">AI Researcher </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabuddinkhan&label=Profile%20views&color=0e75b6&style=flat" alt="msrtanim" /> </p>
