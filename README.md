@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/aftabuddinkhan/aftabuddinkhan/blob/6c19887a2e9b4057d017e15c403b145cfeec6b57/Image/GitHub.gif)](https://github.com/aftabuddinkhan/)
+
 
 <h1 align="center">Hi , I'm Md. Aftab Uddin Khan</h1>
 <h3 align="center">AI Researcher </h3>
